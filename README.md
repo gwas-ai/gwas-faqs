@@ -1,0 +1,2 @@
+# faqs
+FAQs about everything
